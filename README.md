@@ -70,3 +70,13 @@ git push -u origin main
 git remote add origin https://github.com/Comcas/spack-uninstall-gh-spack-install-gh.git
 git branch -M main
 git push -u origin main
+echo "# winget-upgrade---id-GitHub.cli" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Comcas/winget-upgrade---id-GitHub.cli.git
+git push -u origin main
+git remote add origin https://github.com/Comcas/winget-upgrade---id-GitHub.cli.git
+git branch -M main
+git push -u origin main
